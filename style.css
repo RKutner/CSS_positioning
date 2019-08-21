@@ -1,0 +1,52 @@
+/* #title {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+.banner {
+    border-style: groove;
+    border-width: 10px;
+}
+#listmessing{
+    background-color:yellowgreen;
+    text-decoration:underline green;
+} */
+
+.boxheader{
+    width: 2000px;
+    height:200px;
+    background-color: grey;
+    border-color:black;
+    border-style:dashed;
+    margin:10px;
+}
+
+.boxsidebar{
+    width: 300px;
+    height:400px;
+    background-color: grey;
+    border-color:black;
+    border-style:dashed;
+    float:left;
+    margin:10px;
+}
+
+.boxcontent{
+    width: 900px;
+    height:400px;
+    background-color: grey;
+    border-color:black;
+    border-style:dashed;
+    float:left;
+    margin:10px;
+}
+.boxfooter{
+    width: 500px;
+    height:100px;
+    background-color: grey;
+    border-color:black;
+    border-style:dashed;
+    clear:both;
+    margin:10px;
+}
